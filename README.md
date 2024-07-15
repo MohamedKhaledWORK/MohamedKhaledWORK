@@ -2,7 +2,7 @@
 
 ### About Me
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I%27m+Mohamed;Backend+Developer+(.NET);Feel+Free+to+Explore+My+Projects!%3B&font=Times+new+roman&center=true&width=380&height=75&duration=3000&pause=300&color=000000" >
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello%2C+I%27m+Mohamed;Backend+Developer+(.NET);Feel+Free+to+Explore+My+Projects!%3B&font=Times+new+roman&center=true&width=380&height=75&duration=3000&pause=300&color=16392A" >
 </p>
 Faculty of Computer Science & Artificial Intelligence
  
